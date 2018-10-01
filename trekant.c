@@ -23,7 +23,6 @@ int main(void){
   }
 else {
 
-
   printf("%s\n", "please enter a point: (x,y)\n" );
   scanf("  (%lf , %lf)", &p1_x, &p1_y);
   printf("point: (%lf, %lf)\n\n", p1_x, p1_y) ;
